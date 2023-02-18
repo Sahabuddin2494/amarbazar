@@ -1,0 +1,33 @@
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .header_user_section ul li a {
+        padding: 16px 3px;
+        font-size: 12px;
+      }
+      .trending_btn_section .btn {
+        font-size: 13px;
+      }
+      .trending_section_img {
+        overflow: hidden;
+        height: 177px;
+      }
+      .side_bar_section .first_ul li a {
+        font-size: 11px;
+        font-weight: 400;
+        color: black;
+        text-transform: uppercase;
+    }
+    .side_bar_section .first_ul li {
+      padding: 5px 0px;
+  }
+}
+@media(min-width:576px) and (max-width:767px){
+  
+}
+@media(max-width:575.98px){
+  .copy_right_section {
+    background-color: #333333;
+    text-align: center;
+}
+}
+
